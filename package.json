@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@bobyzgirlllnpm/repudiandae-quae-in",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/bobyzgirlllnpm/repudiandae-quae-in.git"
   },
   "dependencies": {
+    "@bobyzgirlllnpm/facere-ipsum-aspernatur": "^1.0.0",
+    "@bobyzgirlllnpm/id-nobis-pariatur": "^1.0.0",
+    "@bobyzgirlllnpm/illo-architecto-dolorum": "^1.0.0",
+    "@bobyzgirlllnpm/nostrum-inventore-quasi": "^1.0.0",
+    "@drftgyhuji7npm/repellendus-eum-et-itaque": "^1.0.0"
   }
 }
